@@ -1,0 +1,19 @@
+{
+  "name": "make_space",
+  "version": "1.0.0",
+  "description": "meeting scheduling system",
+  "main": "geektrust.js",
+  "scripts": {
+    "test": "mocha",
+    "test-with-coverage": "nyc mocha",
+    "start": "node geektrust.js"
+  },
+  "author": "ghanshyam",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  },
+  "devDependencies": {
+    "nyc": "^15.1.0"
+  }
+}

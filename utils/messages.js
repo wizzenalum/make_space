@@ -1,0 +1,2 @@
+module.exports.NO_VACANT_ROOM = "NO_VACANT_ROOM";
+module.exports.INCORRECT_INPUT = "INCORRECT_INPUT";
